@@ -1,0 +1,541 @@
+{
+ "videos": [
+  {
+   "asset_id": "be20bc316df9",
+   "original": "fe3648c1088a4910a67a8534bf300c0d (1).MOV",
+   "title": "Giới thiệu sản phẩm",
+   "caption": "Livestream bán hàng: cầm son, nói về màu và cách dùng.",
+   "src": "media/v/be20bc316df9-r2.mp4",
+   "poster": "media/v/be20bc316df9-r2.jpg",
+   "w": 540,
+   "h": 960,
+   "duration": 25,
+   "logo_removed": true,
+   "logo_region": [
+    [
+     479,
+     722,
+     521,
+     768
+    ],
+    [
+     468,
+     767,
+     535,
+     789
+    ],
+    [
+     410,
+     789,
+     535,
+     812
+    ]
+   ]
+  },
+  {
+   "asset_id": "f7ee6f98c166",
+   "original": "2b5c85d9e46a4ccc91cfc1ef76c9dd11 (1).MOV",
+   "title": "Mở hộp trên live",
+   "caption": "Mở hộp và giới thiệu sản phẩm trực tiếp với người xem.",
+   "src": "media/v/f7ee6f98c166-r2.mp4",
+   "poster": "media/v/f7ee6f98c166-r2.jpg",
+   "w": 540,
+   "h": 960,
+   "duration": 25,
+   "logo_removed": true,
+   "logo_region": [
+    [
+     479,
+     722,
+     521,
+     768
+    ],
+    [
+     468,
+     767,
+     535,
+     789
+    ],
+    [
+     410,
+     789,
+     535,
+     812
+    ]
+   ]
+  },
+  {
+   "asset_id": "196673e22aed",
+   "original": "7371849a93cc46ab8362f4929d2a4a2b.MOV",
+   "title": "Nói chuyện trước camera",
+   "caption": "Video dọc tự quay, dẫn người xem đi tham quan.",
+   "src": "media/v/196673e22aed-r2.mp4",
+   "poster": "media/v/196673e22aed-r2.jpg",
+   "w": 720,
+   "h": 1280,
+   "duration": 24,
+   "logo_removed": false,
+   "logo_region": null
+  }
+ ],
+ "hero": {
+  "code": "IMG_535",
+  "asset_id": "7cff1bfce2f2",
+  "original": "IMG_7953.HEIC",
+  "alt": "Trâm mặc trench coat be, ngoảnh nhìn camera trước khung cảnh đồi núi.",
+  "w": 3024,
+  "h": 4032,
+  "src": "media/p/img_535-720.jpg",
+  "src2x": "media/p/img_535-1280.jpg",
+  "cropped": false
+ },
+ "looks": [
+  {
+   "id": "ao-dai-hong",
+   "title": "Áo dài hồng",
+   "caption": "Tà áo bên hồ, dáng đứng, biểu cảm vui và ánh nắng chiều.",
+   "photos": [
+    {
+     "code": "IMG_327",
+     "asset_id": "ed7f9a07b8ab",
+     "original": "IMG_6822.HEIC",
+     "alt": "Trâm mặc áo dài hồng, ngồi bên hồ giữa khu vườn và cầm hoa tím.",
+     "w": 2316,
+     "h": 3088,
+     "src": "media/p/img_327-720.jpg",
+     "src2x": "media/p/img_327-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_320",
+     "asset_id": "a9a7f9a43b54",
+     "original": "IMG_6800.HEIC",
+     "alt": "Trâm mặc áo dài hồng, tạo biểu cảm vui với một tay đặt dưới cằm.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_320-720.jpg",
+     "src2x": "media/p/img_320-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_314",
+     "asset_id": "ea35cf2916d5",
+     "original": "IMG_6782.HEIC",
+     "alt": "Trâm đứng toàn thân trong áo dài hồng, cầm hoa tím trước hiên gỗ.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_314-720.jpg",
+     "src2x": "media/p/img_314-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_344",
+     "asset_id": "e5f57d25cb8b",
+     "original": "IMG_6930.HEIC",
+     "alt": "Trâm mặc áo dài hồng, nhìn camera bên lan can gỗ trong ánh nắng chiều.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_344-720.jpg",
+     "src2x": "media/p/img_344-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "ao-dai-do",
+   "title": "Áo dài đỏ",
+   "caption": "Dáng ngồi trên bậc thềm, góc cận và nụ cười ngoài trời.",
+   "photos": [
+    {
+     "code": "IMG_304",
+     "asset_id": "d91fac5ba108",
+     "original": "IMG_6701.HEIC",
+     "alt": "Trâm mặc áo dài đỏ, ngồi trên bậc thềm gỗ và nhìn vào camera.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_304-720.jpg",
+     "src2x": "media/p/img_304-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_306",
+     "asset_id": "a1dafc2b79ad",
+     "original": "IMG_6741.HEIC",
+     "alt": "Trâm mặc áo dài đỏ, ngồi cạnh tủ gỗ trưng bày bình gốm.",
+     "w": 2661,
+     "h": 3548,
+     "src": "media/p/img_306-720.jpg",
+     "src2x": "media/p/img_306-1280.jpg",
+     "cropped": true
+    },
+    {
+     "code": "IMG_293",
+     "asset_id": "d08f0be06565",
+     "original": "IMG_6674.HEIC",
+     "alt": "Trâm cười trong áo dài đỏ, một tay chống hông, tay còn lại cầm hoa.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_293-720.jpg",
+     "src2x": "media/p/img_293-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_273",
+     "asset_id": "9c85fb07075b",
+     "original": "IMG_6598.HEIC",
+     "alt": "Trâm mặc áo dài đỏ, cầm hoa tím và nhìn nghiêng trước hiên gỗ.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_273-720.jpg",
+     "src2x": "media/p/img_273-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "sac-trang",
+   "title": "Sắc trắng",
+   "caption": "Dáng toàn thân và góc gần của áo trắng tay phồng, quần trắng.",
+   "photos": [
+    {
+     "code": "IMG_354",
+     "asset_id": "d7ea86aa18f5",
+     "original": "IMG_6965.HEIC",
+     "alt": "Trâm mặc áo trắng tay phồng và quần trắng, nghiêng người vui vẻ và cầm hoa tím.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_354-720.jpg",
+     "src2x": "media/p/img_354-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_355",
+     "asset_id": "5e9746cb5240",
+     "original": "IMG_6967.HEIC",
+     "alt": "Trâm mặc áo trắng tay phồng và quần trắng, đưa cành hoa tím về phía camera.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_355-720.jpg",
+     "src2x": "media/p/img_355-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "casual",
+   "title": "Áo yếm & jeans",
+   "caption": "Dáng đứng, góc bán thân và nụ cười tự nhiên.",
+   "photos": [
+    {
+     "code": "IMG_020",
+     "asset_id": "823430a02084",
+     "original": "IMG_4836.HEIC",
+     "alt": "Trâm cười tươi, đeo kính, mặc áo yếm chấm bi và quần jeans giữa vườn cây.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_020-720.jpg",
+     "src2x": "media/p/img_020-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_034",
+     "asset_id": "f15e180d5841",
+     "original": "IMG_4856.HEIC",
+     "alt": "Trâm mặc áo yếm chấm bi và quần jeans xanh, đứng toàn thân giữa vườn cây.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_034-720.jpg",
+     "src2x": "media/p/img_034-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_022",
+     "asset_id": "49d6530cfe24",
+     "original": "IMG_4838.HEIC",
+     "alt": "Trâm cười nhìn nghiêng, đeo kính và mặc áo yếm chấm bi trong vườn cây.",
+     "w": 4032,
+     "h": 3024,
+     "src": "media/p/img_022-720.jpg",
+     "src2x": "media/p/img_022-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "dam-vang",
+   "title": "Đầm vàng dạo biển",
+   "caption": "Dáng đứng nghiêng và khoảnh khắc vui trước sóng biển.",
+   "photos": [
+    {
+     "code": "IMG_143",
+     "asset_id": "473d1be03b1e",
+     "original": "IMG_5563.HEIC",
+     "alt": "Trâm mặc đầm vàng phối áo trắng, một tay đặt bên hông khi đứng ở bãi biển.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_143-720.jpg",
+     "src2x": "media/p/img_143-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_147",
+     "asset_id": "1bb28aee88f6",
+     "original": "IMG_5587.HEIC",
+     "alt": "Trâm cười vui trong đầm vàng, dang hai tay trước sóng biển.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_147-720.jpg",
+     "src2x": "media/p/img_147-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "dam-ren",
+   "title": "Đầm ren kem",
+   "caption": "Góc nghiêng, dáng đứng và biểu cảm trong cùng bộ đầm ren.",
+   "photos": [
+    {
+     "code": "IMG_120",
+     "asset_id": "bcb918620493",
+     "original": "IMG_5378.HEIC",
+     "alt": "Trâm mặc đầm ren kem, nhìn nghiêng bên tủ trưng bày ở bảo tàng.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_120-720.jpg",
+     "src2x": "media/p/img_120-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_109",
+     "asset_id": "df94d8c667d3",
+     "original": "IMG_5357.HEIC",
+     "alt": "Trâm mặc đầm ren kem và tạo biểu cảm vui với hai bàn tay mở.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_109-720.jpg",
+     "src2x": "media/p/img_109-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_105",
+     "asset_id": "88d76ee95149",
+     "original": "IMG_5353.HEIC",
+     "alt": "Trâm mặc đầm ren kem, đứng khoanh tay trước tủ trưng bày ở bảo tàng.",
+     "w": 4032,
+     "h": 3024,
+     "src": "media/p/img_105-720.jpg",
+     "src2x": "media/p/img_105-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "dam-trang",
+   "title": "Đầm trắng du lịch",
+   "caption": "Đầm trễ vai phối mũ cói: dáng toàn thân và bán thân.",
+   "photos": [
+    {
+     "code": "IMG_157",
+     "asset_id": "a0f501c59112",
+     "original": "IMG_5690.HEIC",
+     "alt": "Trâm mặc đầm trắng trễ vai và mũ cói, đứng toàn thân trước tháp gạch.",
+     "w": 1966,
+     "h": 2621,
+     "src": "media/p/img_157-720.jpg",
+     "src2x": "media/p/img_157-1280.jpg",
+     "cropped": true
+    },
+    {
+     "code": "IMG_164",
+     "asset_id": "7e982f8e6519",
+     "original": "IMG_5750.HEIC",
+     "alt": "Trâm mặc đầm trắng trễ vai, cầm vành mũ cói, phía sau là vịnh biển.",
+     "w": 4032,
+     "h": 3024,
+     "src": "media/p/img_164-720.jpg",
+     "src2x": "media/p/img_164-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "dam-den",
+   "title": "Đầm đen dạo phố",
+   "caption": "Đầm đen cổ trắng: dáng toàn thân, bán thân và góc chụp bên suối.",
+   "photos": [
+    {
+     "code": "IMG_497",
+     "asset_id": "4965ae2c45f5",
+     "original": "IMG_8069.HEIC",
+     "alt": "Trâm mặc đầm đen cổ trắng, đứng cạnh dòng suối và nhìn vào camera.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_497-720.jpg",
+     "src2x": "media/p/img_497-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_494",
+     "asset_id": "cda420957f8b",
+     "original": "IMG_8064.HEIC",
+     "alt": "Trâm mặc đầm đen cổ trắng, một tay đặt dưới cằm trước mái vòm gỗ.",
+     "w": 2316,
+     "h": 3088,
+     "src": "media/p/img_494-720.jpg",
+     "src2x": "media/p/img_494-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_503",
+     "asset_id": "bbc07d9d19a4",
+     "original": "IMG_8083.HEIC",
+     "alt": "Trâm đứng toàn thân trong đầm đen cổ trắng trước căn nhà gỗ bên suối.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_503-720.jpg",
+     "src2x": "media/p/img_503-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "dam-yem",
+   "title": "Đầm yếm mùa hè",
+   "caption": "Đầm kem xếp tầng, túi mini xanh: toàn thân và góc gần.",
+   "photos": [
+    {
+     "code": "IMG_443",
+     "asset_id": "064b721b958b",
+     "original": "IMG_7854.HEIC",
+     "alt": "Trâm mặc đầm yếm kem xếp tầng, đeo kính, cầm túi xanh cạnh lều trắng.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_443-720.jpg",
+     "src2x": "media/p/img_443-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_436",
+     "asset_id": "bad4dc9b429f",
+     "original": "IMG_7811.HEIC",
+     "alt": "Trâm mặc đầm yếm kem, đeo kính và tựa tay vào cột gỗ trước đồi núi.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_436-720.jpg",
+     "src2x": "media/p/img_436-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_447",
+     "asset_id": "40a513c7cb6a",
+     "original": "IMG_7866.HEIC",
+     "alt": "Trâm mặc đầm yếm kem, đeo kính và tạo dáng với túi xanh trước lều trắng.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_447-720.jpg",
+     "src2x": "media/p/img_447-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "trench",
+   "title": "Trench coat",
+   "caption": "Áo khoác be phối đầm ren trắng, trước khung cảnh đồi núi.",
+   "photos": [
+    {
+     "code": "IMG_535",
+     "asset_id": "7cff1bfce2f2",
+     "original": "IMG_7953.HEIC",
+     "alt": "Trâm mặc trench coat be, ngoảnh nhìn camera trước khung cảnh đồi núi.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_535-720.jpg",
+     "src2x": "media/p/img_535-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_532",
+     "asset_id": "7b180d36da43",
+     "original": "IMG_7948.HEIC",
+     "alt": "Trâm mặc trench coat be, cầm túi xanh và nhìn nghiêng trước đồi núi.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_532-720.jpg",
+     "src2x": "media/p/img_532-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_521",
+     "asset_id": "007265f5a7b2",
+     "original": "IMG_8119.HEIC",
+     "alt": "Trâm mặc trench coat be và đầm ren trắng, nhìn camera giữa khung cảnh đồi núi.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_521-720.jpg",
+     "src2x": "media/p/img_521-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "dam-hoa",
+   "title": "Đầm hoa nhẹ nhàng",
+   "caption": "Đầm trắng họa tiết hoa, dáng ngồi và cử chỉ bên suối.",
+   "photos": [
+    {
+     "code": "IMG_507",
+     "asset_id": "e0639d8c2e2d",
+     "original": "IMG_8091.HEIC",
+     "alt": "Trâm mặc đầm trắng họa tiết hoa, ngồi trên lan can gỗ bên dòng suối.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_507-720.jpg",
+     "src2x": "media/p/img_507-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_509",
+     "asset_id": "33b22392e62c",
+     "original": "IMG_8095.HEIC",
+     "alt": "Trâm mặc đầm trắng họa tiết hoa, ngồi và đưa tay lên cạnh mặt bên dòng suối.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_509-720.jpg",
+     "src2x": "media/p/img_509-1280.jpg",
+     "cropped": false
+    }
+   ]
+  },
+  {
+   "id": "san-pham",
+   "title": "Sản phẩm & giao tiếp",
+   "caption": "Ảnh cá nhân cầm sản phẩm và tương tác với camera.",
+   "photos": [
+    {
+     "code": "IMG_614",
+     "asset_id": "b1ffa19863e5",
+     "original": "IMG_8906.HEIC",
+     "alt": "Trâm cầm hai hộp bánh snack hướng về camera khi ngồi dã ngoại.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_614-720.jpg",
+     "src2x": "media/p/img_614-1280.jpg",
+     "cropped": false
+    },
+    {
+     "code": "IMG_616",
+     "asset_id": "b7f259e51e31",
+     "original": "IMG_8909.HEIC",
+     "alt": "Trâm cười nhẹ và đưa tay về phía camera khi ngồi dã ngoại.",
+     "w": 3024,
+     "h": 4032,
+     "src": "media/p/img_616-720.jpg",
+     "src2x": "media/p/img_616-1280.jpg",
+     "cropped": false
+    }
+   ]
+  }
+ ]
+}
